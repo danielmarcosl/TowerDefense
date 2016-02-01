@@ -7,7 +7,16 @@ public class LevelManager : MonoBehaviour {
 	public float autoLoadNextLevelAfter;
 
 	void Start () {
-		if (autoLoadNextLevelAfter != 0) {
+		autoLoadNextLevel ();
+	}
+
+	/**
+	 * Charge the next level is there's a time set
+	 **/
+	void autoLoadNextLevel () {
+		if (autoLoadNextLevelAfter == 0) {
+			Debug.Log ("Level auto load disabled");
+		} else {
 			Invoke ("LoadNextLevel", autoLoadNextLevelAfter); 
 		}
 	}
