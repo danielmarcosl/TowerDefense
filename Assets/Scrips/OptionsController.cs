@@ -16,6 +16,7 @@ public class OptionsController : MonoBehaviour {
 		levelManager = GameObject.FindObjectOfType<LevelManager> ();
 
 		volumeSlider.value = PlayerPrefsManager.GetMasterVolume ();
+		difficultySlider.value = PlayerPrefsManager.GetDifficulty ();
 	}
 	
 	// Update is called once per frame
@@ -26,8 +27,6 @@ public class OptionsController : MonoBehaviour {
 	public void SaveAndExit() {
 		PlayerPrefsManager.SetMasterVolume (volumeSlider.value);
 		PlayerPrefsManager.SetDifficulty (difficultySlider.value);
-
-		musicManager.SetVolume (volumeSlider.value);
 
 		levelManager.LoadLevel ("01a_Start");
 	}
