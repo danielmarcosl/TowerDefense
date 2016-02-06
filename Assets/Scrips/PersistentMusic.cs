@@ -28,6 +28,10 @@ public class PersistentMusic : MonoBehaviour {
 			audioSource.Play ();
 		}
 	}
+
+	public void SetVolume (float volume) {
+		audioSource.volume = volume;
+	}
 	
 	// Update is called once per frame
 	void Update () {
