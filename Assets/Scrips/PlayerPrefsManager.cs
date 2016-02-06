@@ -43,15 +43,15 @@ public class PlayerPrefsManager : MonoBehaviour {
 	}
 
 	// DIFFICULTY_KEY Methods
-	public static void SetDifficulty (int difficulty) {
-		if (difficulty >= 0 && difficulty <= 1) {
+	public static void SetDifficulty (float difficulty) {
+		if (difficulty >= 0f && difficulty <= 3f) {
 			PlayerPrefs.SetFloat (DIFFICULTY_KEY, difficulty);
 		} else {
 			Debug.LogError ("Difficulty out of range");
 		}
 	}
 
-	public static int GetDifficulty () {
+	public static float GetDifficulty () {
 		return PlayerPrefs.GetFloat (DIFFICULTY_KEY);
 	}
 }
