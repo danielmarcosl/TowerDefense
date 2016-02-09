@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 1ae1f96dcf2e9444f8964622eef7d731
+timeCreated: 1454985325
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_butterfly__x1_fly-angle1_png_1354829526_0
+    21300002: npc_butterfly__x1_fly-angle1_png_1354829526_1
+    21300004: npc_butterfly__x1_fly-angle1_png_1354829526_2
+    21300006: npc_butterfly__x1_fly-angle1_png_1354829526_3
+    21300008: npc_butterfly__x1_fly-angle1_png_1354829526_4
+    21300010: npc_butterfly__x1_fly-angle1_png_1354829526_5
+    21300012: npc_butterfly__x1_fly-angle1_png_1354829526_6
+    21300014: npc_butterfly__x1_fly-angle1_png_1354829526_7
+    21300016: npc_butterfly__x1_fly-angle1_png_1354829526_8
+    21300018: npc_butterfly__x1_fly-angle1_png_1354829526_9
+    21300020: npc_butterfly__x1_fly-angle1_png_1354829526_10
+    21300022: npc_butterfly__x1_fly-angle1_png_1354829526_11
+    21300024: npc_butterfly__x1_fly-angle1_png_1354829526_12
+    21300026: npc_butterfly__x1_fly-angle1_png_1354829526_13
+    21300028: npc_butterfly__x1_fly-angle1_png_1354829526_14
+    21300030: npc_butterfly__x1_fly-angle1_png_1354829526_15
+    21300032: npc_butterfly__x1_fly-angle1_png_1354829526_16
+    21300034: npc_butterfly__x1_fly-angle1_png_1354829526_17
+    21300036: npc_butterfly__x1_fly-angle1_png_1354829526_18
+    21300038: npc_butterfly__x1_fly-angle1_png_1354829526_19
+    21300040: npc_butterfly__x1_fly-angle1_png_1354829526_20
+    21300042: npc_butterfly__x1_fly-angle1_png_1354829526_21
+    21300044: npc_butterfly__x1_fly-angle1_png_1354829526_22
+    21300046: npc_butterfly__x1_fly-angle1_png_1354829526_23
+    21300048: npc_butterfly__x1_fly-angle1_png_1354829526_24
+    21300050: npc_butterfly__x1_fly-angle1_png_1354829526_25
+    21300052: npc_butterfly__x1_fly-angle1_png_1354829526_26
+    21300054: npc_butterfly__x1_fly-angle1_png_1354829526_27
+    21300056: npc_butterfly__x1_fly-angle1_png_1354829526_28
+    21300058: npc_butterfly__x1_fly-angle1_png_1354829526_29
+    21300060: npc_butterfly__x1_fly-angle1_png_1354829526_30
+    21300062: npc_butterfly__x1_fly-angle1_png_1354829526_31
+    21300064: npc_butterfly__x1_fly-angle1_png_1354829526_32
+    21300066: npc_butterfly__x1_fly-angle1_png_1354829526_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16.5}
+        - {x: -17, y: -4.5}
+        - {x: -17, y: -18.5}
+        - {x: -9, y: -26.5}
+        - {x: 1, y: -26.5}
+        - {x: 18, y: -14.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 14.5}
+        - {x: 9, y: 16.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15.5}
+        - {x: -8, y: 10.5}
+        - {x: -15, y: -4.5}
+        - {x: -15, y: -25.5}
+        - {x: -14, y: -27.5}
+        - {x: 7, y: -27.5}
+        - {x: 17, y: -13.5}
+        - {x: 22, y: 6.5}
+        - {x: 22, y: 15.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 13.5}
+        - {x: 16, y: 6.5}
+        - {x: -2, y: 8.5}
+        - {x: -9, y: -4.5}
+        - {x: -13, y: -12.5}
+        - {x: -13, y: -28.5}
+        - {x: 7, y: -28.5}
+        - {x: 25, y: -0.5}
+        - {x: 27, y: 8.5}
+        - {x: 27, y: 13.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 8.5}
+        - {x: -1, y: 4.5}
+        - {x: -11, y: -12.5}
+        - {x: -11, y: -26.5}
+        - {x: 0, y: -30.5}
+        - {x: 13, y: -30.5}
+        - {x: 31, y: -2.5}
+        - {x: 31, y: 8.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 2.5}
+        - {x: -1, y: 0.5}
+        - {x: -8, y: -18.5}
+        - {x: -10, y: -25.5}
+        - {x: -7, y: -28.5}
+        - {x: -4, y: -28.5}
+        - {x: 6, y: -32.5}
+        - {x: 15, y: -32.5}
+        - {x: 33, y: -6.5}
+        - {x: 33, y: 2.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -32.5}
+        - {x: 17, y: -32.5}
+        - {x: 32, y: -12.5}
+        - {x: 32, y: -3.5}
+        - {x: 30, y: -0.5}
+        - {x: 3, y: -0.5}
+        - {x: -8, y: -16.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 1.5}
+        - {x: -10, y: -11.5}
+        - {x: -10, y: -32.5}
+        - {x: 21, y: -32.5}
+        - {x: 33, y: -7.5}
+        - {x: 33, y: 1.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 5.5}
+        - {x: -5, y: 3.5}
+        - {x: -12, y: -2.5}
+        - {x: -12, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 17, y: -29.5}
+        - {x: 32, y: -0.5}
+        - {x: 32, y: 5.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 10.5}
+        - {x: -2, y: 9.5}
+        - {x: -13, y: -10.5}
+        - {x: -13, y: -24.5}
+        - {x: -12, y: -26.5}
+        - {x: -4, y: -28.5}
+        - {x: 8, y: -28.5}
+        - {x: 20, y: -12.5}
+        - {x: 30, y: 4.5}
+        - {x: 30, y: 10.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 12.5}
+        - {x: -6, y: 9.5}
+        - {x: -15, y: -8.5}
+        - {x: -15, y: -19.5}
+        - {x: -14, y: -24.5}
+        - {x: -5, y: -27.5}
+        - {x: 2, y: -27.5}
+        - {x: 18, y: -14.5}
+        - {x: 26, y: 5.5}
+        - {x: 26, y: 12.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 10.5}
+        - {x: -2, y: 10.5}
+        - {x: -13, y: -10.5}
+        - {x: -13, y: -26.5}
+        - {x: -9, y: -28.5}
+        - {x: 7, y: -28.5}
+        - {x: 12, y: -24.5}
+        - {x: 14, y: -15.5}
+        - {x: 30, y: 6.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 130
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 5.5}
+        - {x: -4, y: 3.5}
+        - {x: -12, y: -15.5}
+        - {x: -12, y: -23.5}
+        - {x: -10, y: -28.5}
+        - {x: -2, y: -26.5}
+        - {x: 3, y: -22.5}
+        - {x: 3, y: -28.5}
+        - {x: 5, y: -30.5}
+        - {x: 11, y: -30.5}
+        - {x: 32, y: -0.5}
+        - {x: 32, y: 5.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 1.5}
+        - {x: -10, y: -11.5}
+        - {x: -10, y: -32.5}
+        - {x: 33, y: -32.5}
+        - {x: 33, y: 1.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -32.5}
+        - {x: 17, y: -32.5}
+        - {x: 32, y: -12.5}
+        - {x: 32, y: -3.5}
+        - {x: 30, y: -0.5}
+        - {x: 3, y: -0.5}
+        - {x: -8, y: -16.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 2.5}
+        - {x: -1, y: 0.5}
+        - {x: -8, y: -18.5}
+        - {x: -10, y: -25.5}
+        - {x: -7, y: -28.5}
+        - {x: -4, y: -28.5}
+        - {x: 6, y: -32.5}
+        - {x: 15, y: -32.5}
+        - {x: 33, y: -6.5}
+        - {x: 33, y: 2.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 8.5}
+        - {x: -1, y: 4.5}
+        - {x: -11, y: -12.5}
+        - {x: -11, y: -26.5}
+        - {x: 0, y: -30.5}
+        - {x: 13, y: -30.5}
+        - {x: 31, y: -2.5}
+        - {x: 31, y: 8.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 13.5}
+        - {x: 16, y: 6.5}
+        - {x: -2, y: 8.5}
+        - {x: -9, y: -4.5}
+        - {x: -13, y: -12.5}
+        - {x: -13, y: -28.5}
+        - {x: 7, y: -28.5}
+        - {x: 25, y: -0.5}
+        - {x: 27, y: 8.5}
+        - {x: 27, y: 13.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15.5}
+        - {x: -8, y: 10.5}
+        - {x: -15, y: -4.5}
+        - {x: -15, y: -25.5}
+        - {x: -14, y: -27.5}
+        - {x: 7, y: -27.5}
+        - {x: 17, y: -13.5}
+        - {x: 22, y: 6.5}
+        - {x: 22, y: 15.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16.5}
+        - {x: -17, y: -4.5}
+        - {x: -17, y: -18.5}
+        - {x: -9, y: -26.5}
+        - {x: 1, y: -26.5}
+        - {x: 18, y: -14.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 14.5}
+        - {x: 9, y: 16.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 15.5}
+        - {x: 9, y: 12.5}
+        - {x: 3, y: 17.5}
+        - {x: -2, y: 17.5}
+        - {x: -16, y: -2.5}
+        - {x: -16, y: -18.5}
+        - {x: -9, y: -25.5}
+        - {x: 2, y: -25.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 9.5}
+        - {x: 17, y: 17.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17.5}
+        - {x: -15, y: -3.5}
+        - {x: -15, y: -21.5}
+        - {x: -9, y: -25.5}
+        - {x: 1, y: -25.5}
+        - {x: 6, y: -23.5}
+        - {x: 18, y: -14.5}
+        - {x: 19, y: -4.5}
+        - {x: 19, y: 17.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17.5}
+        - {x: -15, y: -4.5}
+        - {x: -15, y: -21.5}
+        - {x: -11, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+        - {x: 17, y: 17.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18.5}
+        - {x: -11, y: 8.5}
+        - {x: -14, y: -7.5}
+        - {x: -14, y: -21.5}
+        - {x: -12, y: -24.5}
+        - {x: 4, y: -24.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 12.5}
+        - {x: 17, y: 18.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 65
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19.5}
+        - {x: -14, y: -3.5}
+        - {x: -14, y: -16.5}
+        - {x: -12, y: -24.5}
+        - {x: 8, y: -24.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 14.5}
+        - {x: 18, y: 19.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.5}
+        - {x: -6, y: 19.5}
+        - {x: -13, y: -1.5}
+        - {x: -13, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 22, y: -4.5}
+        - {x: 22, y: 20.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8.5}
+        - {x: -13, y: -23.5}
+        - {x: -9, y: -26.5}
+        - {x: 10, y: -26.5}
+        - {x: 27, y: -4.5}
+        - {x: 27, y: 18.5}
+        - {x: 14, y: 18.5}
+        - {x: -4, y: 14.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13.5}
+        - {x: -12, y: -7.5}
+        - {x: -12, y: -24.5}
+        - {x: 1, y: -28.5}
+        - {x: 11, y: -28.5}
+        - {x: 32, y: 1.5}
+        - {x: 32, y: 13.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8.5}
+        - {x: -11, y: 3.5}
+        - {x: -11, y: -30.5}
+        - {x: 11, y: -30.5}
+        - {x: 21, y: -24.5}
+        - {x: 35, y: -7.5}
+        - {x: 35, y: 8.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 1.5}
+        - {x: -3, y: -0.5}
+        - {x: -10, y: -16.5}
+        - {x: -10, y: -27.5}
+        - {x: -9, y: -29.5}
+        - {x: 1, y: -32.5}
+        - {x: 19, y: -32.5}
+        - {x: 35, y: -8.5}
+        - {x: 35, y: 1.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -32.5}
+        - {x: 24, y: -32.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: -2.5}
+        - {x: 33, y: -1.5}
+        - {x: 13, y: -0.5}
+        - {x: 1, y: -0.5}
+        - {x: -9, y: -18.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 2.5}
+        - {x: -1, y: 2.5}
+        - {x: -11, y: -5.5}
+        - {x: -11, y: -24.5}
+        - {x: -10, y: -31.5}
+        - {x: 16, y: -31.5}
+        - {x: 22, y: -21.5}
+        - {x: 35, y: -4.5}
+        - {x: 35, y: 0.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 9.5}
+        - {x: -2, y: 8.5}
+        - {x: -12, y: -5.5}
+        - {x: -12, y: -28.5}
+        - {x: -10, y: -29.5}
+        - {x: 14, y: -29.5}
+        - {x: 17, y: -27.5}
+        - {x: 33, y: 4.5}
+        - {x: 33, y: 9.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 14.5}
+        - {x: 19, y: 14.5}
+        - {x: -5, y: 10.5}
+        - {x: -14, y: -8.5}
+        - {x: -14, y: -20.5}
+        - {x: -13, y: -26.5}
+        - {x: -4, y: -28.5}
+        - {x: 5, y: -28.5}
+        - {x: 9, y: -25.5}
+        - {x: 27, y: 8.5}
+        - {x: 27, y: 13.5}
+    - name: npc_butterfly__x1_fly-angle1_png_1354829526_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 13.5}
+        - {x: 21, y: 15.5}
+        - {x: -7, y: 15.5}
+        - {x: -15, y: 4.5}
+        - {x: -15, y: -27.5}
+        - {x: 4, y: -27.5}
+        - {x: 16, y: -13.5}
+        - {x: 21, y: 2.5}
+        - {x: 22, y: 6.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
